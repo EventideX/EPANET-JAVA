@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.cheffo:jeplite:0.8.7a">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cheffo/jeplite/0.8.7a/jeplite-0.8.7a.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cheffo/jeplite/0.8.7a/jeplite-0.8.7a-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cheffo/jeplite/0.8.7a/jeplite-0.8.7a-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
